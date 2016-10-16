@@ -1,0 +1,25 @@
+{
+  "name": "quivel-server",
+  "version": "1.0.0",
+  "description": "quivel server code",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "datejs": "^0.0.2",
+    "express": "^4.13.4",
+    "node-rest-client": "^1.8.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "googleapis": "14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node main.js"
+  },
+  "keywords": [
+    "sabre",
+    "NodeJS"
+  ],
+  "author": ""
+}
